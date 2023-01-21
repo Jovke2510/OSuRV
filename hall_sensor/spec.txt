@@ -1,0 +1,7 @@
+odredjivanje brzine: v=s/t
+		     s = 2*pi*r
+		     t = t2 - t1
+
+t1 - vremenski trenutak u kom se prvi put pojavio magnet
+t2 - vremenski trenutak u kom se drugi put pojavio magnet
+r - mora se uneti 
